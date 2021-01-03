@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\tekno_note5\Github\microservice-example\src\Basket\Basket.API\Controllers\BasketController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\tekno_note5\Github\microservice-example\src\Catalog\Catalog.API\Controllers\CatalogController.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
